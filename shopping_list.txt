@@ -1,5 +1,0 @@
-bananas
-apples
-nuts
-eggs
-...
